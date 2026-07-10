@@ -98,6 +98,225 @@
 				<Property Name="TgtF_targetfileName" Type="Str">Application.exe</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
+			<Item Name="Simple UDP - Receiver3" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{A6C5EEA8-BFEF-410F-8F6B-C463DCD52F95}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{2F04C06B-F830-46B1-AB07-666A39D771FE}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="App_serverType" Type="Int">0</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{8EAE023A-B78C-4FEA-BBCB-9FE9F6365C61}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">Simple UDP - Receiver3</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/Simple UDP - Receiver3</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{2F4AE8AA-BC17-4C13-94F1-D936CFA1A368}</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">Application.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/Simple UDP - Receiver3/Application.exe</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/Simple UDP - Receiver3/data</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{E43E7F98-D365-4052-8D04-D0F9F1EBA201}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Simple UDP - Receiver.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="TgtF_companyName" Type="Str">École Nationale des Sciences Appliquées d'Oujda</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">Simple UDP - Receiver3</Property>
+				<Property Name="TgtF_internalName" Type="Str">Simple UDP - Receiver3</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2026 École Nationale des Sciences Appliquées d'Oujda</Property>
+				<Property Name="TgtF_productName" Type="Str">Simple UDP - Receiver3</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{04708012-28AA-4F09-89FB-14111CD6292D}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">Application.exe</Property>
+				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
+			</Item>
+			<Item Name="Simple UDP - Receiver4" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{D253B160-74C4-4584-ABE0-F73A8CA3DF98}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{B4301871-61DA-4394-9D64-01913BDA93D7}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="App_serverType" Type="Int">0</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{A8B936F8-5E47-4E65-BCD2-0B520FE6C964}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">Simple UDP - Receiver4</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/Simple UDP - Receiver4</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{8FB46008-8AA4-4B61-AA7D-4EEE9A675F92}</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">Application.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/Simple UDP - Receiver4/Application.exe</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/Simple UDP - Receiver4/data</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{E43E7F98-D365-4052-8D04-D0F9F1EBA201}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Simple UDP - Receiver.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="TgtF_companyName" Type="Str">École Nationale des Sciences Appliquées d'Oujda</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">Simple UDP - Receiver4</Property>
+				<Property Name="TgtF_internalName" Type="Str">Simple UDP - Receiver4</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2026 École Nationale des Sciences Appliquées d'Oujda</Property>
+				<Property Name="TgtF_productName" Type="Str">Simple UDP - Receiver4</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{F9AB9E61-A01A-497C-8E5B-1120363756AC}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">Application.exe</Property>
+				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
+			</Item>
+			<Item Name="Simple UDP - Receiver5" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{A6FDBF9D-064D-4BE7-8AF5-41621D9B060C}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{5561F771-7079-4DB1-8208-6C741CC57604}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="App_serverType" Type="Int">0</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{C97F7D4B-576F-48D0-BB9C-503771B2834C}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">Simple UDP - Receiver5</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/Simple UDP - Receiver5</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{BB2831D5-045F-4AB0-A23F-7DCF3CE6D0E7}</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">Application.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/Simple UDP - Receiver5/Application.exe</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/Simple UDP - Receiver5/data</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{E43E7F98-D365-4052-8D04-D0F9F1EBA201}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Simple UDP - Receiver.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="TgtF_companyName" Type="Str">École Nationale des Sciences Appliquées d'Oujda</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">Simple UDP - Receiver5</Property>
+				<Property Name="TgtF_internalName" Type="Str">Simple UDP - Receiver5</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2026 École Nationale des Sciences Appliquées d'Oujda</Property>
+				<Property Name="TgtF_productName" Type="Str">Simple UDP - Receiver5</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{375858DB-BCBA-434A-B0BF-D79EBE67D338}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">Application.exe</Property>
+				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
+			</Item>
+			<Item Name="VFD-GUI-V7" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{C1C4A68B-89B7-4A19-96FB-C50359697EE0}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{945F8F4A-DC67-40C8-BBD4-B72478F7E3CF}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="App_serverType" Type="Int">0</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{5A7583E3-50BB-461D-A37F-AB05FA9F8CAE}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">VFD-GUI-V7</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/VFD-GUI-V7</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{5C610D1C-A813-4D7F-8516-B0E286B47E77}</Property>
+				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">VFD-GUI-V7.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/VFD-GUI-V7/VFD-GUI-V7.exe</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/VFD-GUI-V7/data</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{E43E7F98-D365-4052-8D04-D0F9F1EBA201}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Simple UDP - Receiver.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="Source[2].itemID" Type="Ref">/My Computer/flip_flop.vi</Property>
+				<Property Name="Source[2].properties[0].type" Type="Str">Show menu bar</Property>
+				<Property Name="Source[2].properties[0].value" Type="Bool">false</Property>
+				<Property Name="Source[2].properties[1].type" Type="Str">Show horizontal scroll bar</Property>
+				<Property Name="Source[2].properties[1].value" Type="Bool">false</Property>
+				<Property Name="Source[2].properties[2].type" Type="Str">Show vertical scroll bar</Property>
+				<Property Name="Source[2].properties[2].value" Type="Bool">false</Property>
+				<Property Name="Source[2].properties[3].type" Type="Str">Show Abort button</Property>
+				<Property Name="Source[2].properties[3].value" Type="Bool">false</Property>
+				<Property Name="Source[2].properties[4].type" Type="Str">Show toolbar</Property>
+				<Property Name="Source[2].properties[4].value" Type="Bool">false</Property>
+				<Property Name="Source[2].properties[5].type" Type="Str">Run when opened</Property>
+				<Property Name="Source[2].properties[5].value" Type="Bool">true</Property>
+				<Property Name="Source[2].properties[6].type" Type="Str">Allow debugging</Property>
+				<Property Name="Source[2].properties[6].value" Type="Bool">false</Property>
+				<Property Name="Source[2].propertiesCount" Type="Int">7</Property>
+				<Property Name="Source[2].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">3</Property>
+				<Property Name="TgtF_companyName" Type="Str">École Nationale des Sciences Appliquées d'Oujda</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">VFD-GUI-V7</Property>
+				<Property Name="TgtF_internalName" Type="Str">VFD-GUI-V7</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2026 École Nationale des Sciences Appliquées d'Oujda</Property>
+				<Property Name="TgtF_productName" Type="Str">VFD-GUI-V7</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{6F44BBF2-D9E5-4267-823A-8E432ABE7282}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">VFD-GUI-V7.exe</Property>
+				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
+			</Item>
+			<Item Name="VFD-GUI_V8" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{6368F34B-29EB-4396-9A1E-F2AFDCD4CE05}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{BCD220F1-DCD6-4857-82A2-82CB7DFC2412}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="App_serverType" Type="Int">0</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{B1EBA95B-9612-4030-AFCC-88E13DA22EE3}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">VFD-GUI_V8</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/VFD-GUI_V8</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{DD47441D-CEB0-4077-88B7-3F195C89C426}</Property>
+				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">VFD-GUI-V8.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/VFD-GUI_V8/VFD-GUI-V8.exe</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/VFD-GUI_V8/data</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{52E32C2B-CCD3-439A-B83E-A5B0F358CD25}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Simple UDP - Receiver.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="TgtF_companyName" Type="Str">École Nationale des Sciences Appliquées d'Oujda</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">VFD-GUI_V8</Property>
+				<Property Name="TgtF_internalName" Type="Str">VFD-GUI_V8</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2026 École Nationale des Sciences Appliquées d'Oujda</Property>
+				<Property Name="TgtF_productName" Type="Str">VFD-GUI_V8</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{8AD18C25-B9FA-4FFD-A586-E9EDA1959B48}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">VFD-GUI-V8.exe</Property>
+				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
+			</Item>
 			<Item Name="VFD_GUI_V3" Type="EXE">
 				<Property Name="App_copyErrors" Type="Bool">true</Property>
 				<Property Name="App_INI_aliasGUID" Type="Str">{0582BCDC-652D-4306-AE77-92E7A6D584F9}</Property>
@@ -229,6 +448,46 @@
 				<Property Name="TgtF_productName" Type="Str">VFD_GUI_V5</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{A7E0A2BE-158A-4CFB-BFDB-2098BBE94554}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">VFD_GUI_V5.exe</Property>
+				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
+			</Item>
+			<Item Name="VFD_GUI_V6" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{536D284D-C67F-4826-B839-C218ADDC8D87}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{34D0E55B-8878-475A-B04D-3D6A54CAC866}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="App_serverType" Type="Int">0</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{7249C680-2BF5-4B71-95C6-C3B55C6A1FB1}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">VFD_GUI_V6</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/VFD_GUI_V6</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{4FA2B045-16D6-44AD-8CFE-9B609A3180DD}</Property>
+				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">VFD_GUI_V6.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/VFD_GUI_V6/VFD_GUI_V6.exe</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/VFD_GUI_V6/data</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{74E12C60-DC72-4EB8-94B0-32B5311AA7D5}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Simple UDP - Receiver.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">VFD_GUI_V6</Property>
+				<Property Name="TgtF_internalName" Type="Str">VFD_GUI_V6</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright </Property>
+				<Property Name="TgtF_productName" Type="Str">VFD_GUI_V6</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{219E8243-2301-4B56-98F6-0A24E6DA7422}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">VFD_GUI_V6.exe</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 			<Item Name="VFD_OCP_GUI_V1" Type="EXE">

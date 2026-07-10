@@ -1,3 +1,5 @@
 # LabVIEW local configuration files
 *.aliases
 *.lvlps
+*.bin3
+builds/
