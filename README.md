@@ -29,3 +29,14 @@ The project contains several configured build specifications to generate Windows
 - **VFD-GUI-V7**
 - **VFD-GUI-V8**
 - **VFD_GUI_V6**
+
+## Automating Sync & Tool Configuration
+
+A PowerShell helper script [sync.ps1](file:///C:/Users/Lenovo/Desktop/ENSA/sidework/OCP-VFD/GUI/Simple%20UDP%20-%20Receiver%20Folder1/sync.ps1) is included in the root of the project to run all the configuration, staging, committing, and pushing steps in a single command.
+
+Run it in PowerShell:
+```powershell
+.\sync.ps1 -Message "Your commit message here"
+```
+If no message is supplied, it defaults to `"Update LabVIEW project"`.
+
